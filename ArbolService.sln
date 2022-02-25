@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbolService", "ArbolService.csproj", "{A6544EBB-992A-4419-9B5A-821205D0ACA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontArboles", "..\FrontArboles\FrontArboles.csproj", "{7CED0335-E27F-4B56-B6B3-3E545D16E2AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6544EBB-992A-4419-9B5A-821205D0ACA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6544EBB-992A-4419-9B5A-821205D0ACA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6544EBB-992A-4419-9B5A-821205D0ACA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6544EBB-992A-4419-9B5A-821205D0ACA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CED0335-E27F-4B56-B6B3-3E545D16E2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CED0335-E27F-4B56-B6B3-3E545D16E2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CED0335-E27F-4B56-B6B3-3E545D16E2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CED0335-E27F-4B56-B6B3-3E545D16E2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC07564-9F23-4D6E-B0F4-EB758A3635B3}
+	EndGlobalSection
+EndGlobal
